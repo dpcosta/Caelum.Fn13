@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Caelum.Fn13.Collections.Carro">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAAAAAAAAEEAAEAAAAgAAAAAAAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Proprietario" />
+      <Property Name="Cor" />
+      <Property Name="Modelo" />
+      <Property Name="Placa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Caelum.Fn13.Collections.Modelo">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABQAAAAAAAAAgAAAQAAAABAAAIAAAAAAAgEAKAI=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Marca" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Caelum.Fn13.Collections.Pessoa">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Caelum.Fn13.Collections.Placa">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Caelum.Fn13.Collections.Cor">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAAAAAAAAgAEAAAAAAAAAAAAAAAgAAAAAAYAAAAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Caelum.Fn13.Collections.Marca">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAIAAAAAgAQAAAAAAAAAgAABAAAAEAgAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
